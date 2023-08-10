@@ -1,2 +1,3 @@
-# DataAnalytics
-My personal space for experimenting and exploring the world of data analytics.
+# Data Analytics Journey
+
+[Bellabeat Case Study](https://github.com/darylmatthew/DataAnalytics/blob/main/Bellabeat%20Case)
